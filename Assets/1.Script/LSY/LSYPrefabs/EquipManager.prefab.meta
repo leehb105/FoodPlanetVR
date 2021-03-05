@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:Assets/1.Script/LSY/LSYPrefabs/EquipManager.prefab.meta
+guid: faf0f14718c44e142aededc38b2bb93e
+========
+<<<<<<< HEAD:Assets/1.Script/PDK/Prefab/EXIT.prefab.meta
+guid: 554bc4dbb227b784ba4b3bdf06dc2ae9
+=======
+guid: 76d0b0dec9d1ab841808e412aed105cf
+>>>>>>> LSY:Assets/1.Script/LSY/LSYPrefabs/Heart.prefab.meta
+>>>>>>>> Stashed changes:Assets/1.Script/PDK/Prefab/EXIT.prefab.meta
+=======
+<<<<<<< HEAD:Assets/1.Script/PDK/Prefab/Food/0Bread/HamburgerBreadDown.prefab.meta
+guid: 72bc20f21e1192f4aaeb2cc60d06e184
+=======
+guid: faf0f14718c44e142aededc38b2bb93e
+>>>>>>> LSY:Assets/1.Script/LSY/LSYPrefabs/EquipManager.prefab.meta
+>>>>>>> Stashed changes
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

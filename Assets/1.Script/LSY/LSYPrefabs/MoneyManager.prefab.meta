@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:Assets/1.Script/LSY/LSYPrefabs/MoneyManager.prefab.meta
+guid: 770707444b1d9124d838644b6bf71820
+========
+<<<<<<< HEAD:Assets/1.Script/PDK/Prefab/EXIT.prefab.meta
+guid: 6968d1bec7685e34c9d41fd2cc4918d4
+=======
+guid: 770707444b1d9124d838644b6bf71820
+>>>>>>> LSY:Assets/1.Script/LSY/LSYPrefabs/MoneyManager.prefab.meta
+>>>>>>>> Stashed changes:Assets/1.Script/PDK/Prefab/EXIT.prefab.meta
+=======
+<<<<<<< HEAD:Assets/1.Script/PDK/Prefab/EXIT.prefab.meta
+guid: af986d945fb7c334babbbd35de2a9507
+=======
+guid: 770707444b1d9124d838644b6bf71820
+>>>>>>> LSY:Assets/1.Script/LSY/LSYPrefabs/MoneyManager.prefab.meta
+>>>>>>> Stashed changes
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

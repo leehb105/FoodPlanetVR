@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fd425c2d06f39bf4899d07c05d0f10eb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - menu: {fileID: 2305668804317948250, guid: 1316e5dce2b9ffd49921dc64da4c7a54, type: 3}
+  - m_gripTransform: {instanceID: 0}
+  - m_parentTransform: {instanceID: 0}
+  - m_player: {instanceID: 0}
+  executionOrder: 200
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

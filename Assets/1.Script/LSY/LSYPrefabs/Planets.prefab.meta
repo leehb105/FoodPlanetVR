@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:Assets/1.Script/LSY/LSYPrefabs/Planets.prefab.meta
+guid: eb696ade72e993c49ada2bf4d60fd995
+========
+<<<<<<< HEAD:Assets/1.Script/PDK/Prefab/Food/0Bread/HamburgerBreadDown.prefab.meta
+guid: 9311457fe2a21614b8023d8020ee876c
+=======
+guid: d254cffe3ddf7124895d773c374585d3
+>>>>>>> LSY:Assets/1.Script/LSY/LSYPrefabs/ItemManager.prefab.meta
+>>>>>>>> Stashed changes:Assets/1.Script/PDK/Prefab/Food/0Bread/HamburgerBreadDown.prefab.meta
+=======
+guid: eb696ade72e993c49ada2bf4d60fd995
+>>>>>>> Stashed changes
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
