@@ -6,7 +6,7 @@ FoodPlanetVR
 
 ## <프로젝트 개요>
 
-- 사용 엔진 : Unity (2019.3.14f)<img src="https://unity.com/logo-unity-web.png" width="4%" height="3%" title="unity_image" alt="RubberDuck"></img>   
+- 사용 엔진 : <img src="https://unity.com/logo-unity-web.png" width="16%" height="9%" title="unity_image" alt="RubberDuck"></img>(2019.3.14f)   
 - 진행 기간 : 2020.09~2020.11   
 - 사용 언어 : C#   
 - 프로젝트 구현된 점 : 디자인패턴(Singleton), DB(SQlite)    
