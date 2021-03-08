@@ -3,7 +3,6 @@ FoodPlanetVR
 >Oculus Quest2 환경의 VR 요리 시뮬레이션 게임
 
 
-[Google](https://google.com, "google link")
 ## <프로젝트 개요>
 
 - 사용 엔진 : <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1280px-Unity_Technologies_logo.svg.png" width="90px" height="30px" title="unity_image" alt="RubberDuck"></img> [(2019.3.14f)](https://unity3d.com/unity/whats-new/2019.3.14, "2019.3.14 link")   
