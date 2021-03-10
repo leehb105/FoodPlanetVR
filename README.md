@@ -3,9 +3,9 @@ FoodPlanetVR
 >Oculus Quest2 환경의 VR 요리 시뮬레이션 게임
 
 
-## <게임 개요>
+### 게임 개요
 
-### 실행환경
+#### 실행환경
 Device - Facebook 사 Oculus Quest 1/2   
 Minimum SDK - Android 4.4 KitKat(API Level 19)
 
