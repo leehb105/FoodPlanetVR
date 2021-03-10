@@ -25,11 +25,15 @@ FoodPlanetVR
 - 사용언어: <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a><img src="https://img.shields.io/badge/Visual Studio 2019-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>   
 - 구현된 점: 디자인패턴 적용(Singleton), 게임 데이터 DB(<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>)적재   
 
-
-
+#### 만들면서
+게임 내 데이터 저장을 위해 다양한 방법을 시도했었음   
+1. JSON형식으로 데이터 입출력을 시도 했으나 유지보수 측면에서 난항을 겪음   
+2. 대중적인 OLACLE DB를 네트워크 연동하려 했으나 저장데이터가 크지 않고 입출력이 적어서 사용이 적절하지 않다고 판단   
+3. 비교적 가벼운 내장형 DB를 사용하기 위해 SQLite를 유니티에 연동하여 사용함   
+	 -> 비용과 메모리 절약 가능
 
  
-- 진행 기간 : 2020.08~2020.11   
+  
 
     
 영상 링크 : //추가예정
