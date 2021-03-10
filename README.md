@@ -3,7 +3,11 @@ FoodPlanetVR
 >Oculus Quest2 환경의 VR 요리 시뮬레이션 게임
 
 
-## <프로젝트 개요>
+## <게임 개요>
+
+### 실행환경
+Device - Facebook 사 Oculus Quest 1/2
+Minimum SDK - Android 4.4 KitKat(API Level 19)
 
 - 사용 엔진 : <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1280px-Unity_Technologies_logo.svg.png" width="90px" height="30px" title="unity_image" alt="RubberDuck"></img> [(2019.3.14f)](https://unity3d.com/unity/whats-new/2019.3.14 "2019.3.14 link")   
 - 진행 기간 : 2020.08~2020.11   
