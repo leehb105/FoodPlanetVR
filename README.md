@@ -15,8 +15,8 @@ FoodPlanetVR
 <img src="https://github.com/leehb105/FoodPlanetVR/blob/main/Assets/4.Images/Poster/controller.png" width="80%" height="60%" title="px(픽셀) 크기 설정" alt="image"></img>
 
 ### 스틸컷
-<img src="https://github.com/leehb105/FoodPlanetVR/blob/main/Assets/4.Images/Poster/1.gif" width="30%" height="20%" title="px(픽셀) 크기 설정" alt="image"></img>&nasp;&nasp;
-<img src="https://github.com/leehb105/FoodPlanetVR/blob/main/Assets/4.Images/Poster/2.gif" width="30%" height="20%" title="px(픽셀) 크기 설정" alt="image"></img>&nasp;&nasp;
+<img src="https://github.com/leehb105/FoodPlanetVR/blob/main/Assets/4.Images/Poster/1.gif" width="30%" height="20%" title="px(픽셀) 크기 설정" alt="image"></img> &nasp;&nasp;
+<img src="https://github.com/leehb105/FoodPlanetVR/blob/main/Assets/4.Images/Poster/2.gif" width="30%" height="20%" title="px(픽셀) 크기 설정" alt="image"></img> &nasp;&nasp;
 <img src="https://github.com/leehb105/FoodPlanetVR/blob/main/Assets/4.Images/Poster/3.gif" width="30%" height="20%" title="px(픽셀) 크기 설정" alt="image"></img>   
    
 ## 프로젝트 개요
