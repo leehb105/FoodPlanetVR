@@ -12,7 +12,7 @@ FoodPlanetVR
 - Minimum SDK - Android 4.4 KitKat(API Level 19)
 
 ### 조작법
-<img src="https://github.com/leehb105/FoodPlanetVR/blob/main/Assets/4.Images/Poster/controller.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="image"></img>
+<img src="https://github.com/leehb105/FoodPlanetVR/blob/main/Assets/4.Images/Poster/controller.png" width="80%" height="60%" title="px(픽셀) 크기 설정" alt="image"></img>
 
 ### 이미지
 //추가예정
