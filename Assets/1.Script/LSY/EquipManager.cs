@@ -12,7 +12,6 @@ public class EquipManager : MonoBehaviour
     private void Awake()
     {
         instance = this;
-        //DBManager.instance.LoadEquipDB();
     }
 
     GameObject hammerPos;
