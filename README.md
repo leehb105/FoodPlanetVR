@@ -15,7 +15,7 @@ FoodPlanetVR
 <img src="https://github.com/leehb105/FoodPlanetVR/blob/main/Assets/4.Images/Poster/controller.png" width="80%" height="60%" title="px(픽셀) 크기 설정" alt="image"></img>
 
 ### 이미지
-//추가예정
+<img src="https://github.com/leehb105/FoodPlanetVR/blob/main/Assets/4.Images/Poster/1.gif" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="image"></img>
 
 ## 프로젝트 개요
 - 닌텐도 게임인 쿠킹마마와 같은 요리게임을 VR에 접목한 캐주얼 게임
