@@ -144,11 +144,7 @@ public class EquipManager : MonoBehaviour
             print(equipList[i].name + " : " + equipList[i].level + " : " + equipList[i].price);
         }
     }
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+
     public void ClearList()
     {
         equipList.Clear(); 

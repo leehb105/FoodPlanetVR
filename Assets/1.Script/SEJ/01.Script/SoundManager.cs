@@ -9,7 +9,6 @@ public class SoundManager : MonoBehaviour {
 
     }
     AudioSource sound;
-    //[SerializeField] AudioClip bgm;
     [SerializeField] AudioClip btnClick;
     [SerializeField] AudioClip enhance;
     [SerializeField] AudioClip charging;
