@@ -1,4 +1,4 @@
-VR FoodPlanet
+VR FoodPlanet🚀
 ============
 >Oculus Quest2 환경의 VR 요리 시뮬레이션 게임   
 >>*'궁핍한 지구생활을 정리하고 우주로 떠나    
