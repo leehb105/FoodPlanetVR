@@ -21,6 +21,7 @@ VR FoodPlanet
    
 ## 프로젝트 개요
 - 닌텐도 게임인 쿠킹마마와 같은 요리게임을 VR에 접목한 캐주얼 게임
+- 우주를 배경으로 요리 재료와 장비 리소스를 독특하게 제작
 
 ### 개발환경
 - 사용엔진: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1280px-Unity_Technologies_logo.svg.png" width="90px" height="30px" title="unity_image" alt="RubberDuck"></img> [(2019.3.14f)](https://unity3d.com/unity/whats-new/2019.3.14 "2019.3.14 link")   
