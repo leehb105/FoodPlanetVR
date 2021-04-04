@@ -29,4 +29,4 @@ VR FoodPlanet🚀
 - 구현된 점: 디자인패턴 적용(Singleton), 게임 데이터 DB(<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>)적재   
     
 ### 영상 
-<img src="https://github.com/leehb105/FoodPlanetVR/blob/main/Assets/4.Images/Poster/Poster.png" width="30%" height="20%" title="px(픽셀) 크기 설정" alt="image">(https://youtu.be/1-Co7poNlrU)
+[<img src="https://github.com/leehb105/FoodPlanetVR/blob/main/Assets/4.Images/Poster/Poster.png" width="30%" height="20%" title="px(픽셀) 크기 설정" alt="image">](https://youtu.be/1-Co7poNlrU)
